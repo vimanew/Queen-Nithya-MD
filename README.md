@@ -1,17 +1,3 @@
-<div align="center">
-    <b>
-███╗░░██╗██╗████████╗██╗░░██╗██╗░░░██╗░█████╗░
-████╗░██║██║╚══██╔══╝██║░░██║╚██╗░██╔╝██╔══██╗
-██╔██╗██║██║░░░██║░░░███████║░╚████╔╝░███████║
-██║╚████║██║░░░██║░░░██╔══██║░░╚██╔╝░░██╔══██║
-██║░╚███║██║░░░██║░░░██║░░██║░░░██║░░░██║░░██║
-╚═╝░░╚══╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝</b></b>
-
-  
-<div align="center">
-</p>
-
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+QUEEN+NITHYA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
