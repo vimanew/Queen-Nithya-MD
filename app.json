@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "DARK-SHAN-MD"
+      "value": "YASAS DILEEPA"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -67,7 +67,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*DARK-SHAN-MD*"
+	    "value": "*NITHYA-MD*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -92,11 +92,12 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://KUSHAN:4000@cluster0.zji09ho.mongodb.net/"
+    "value": ""
+     "required" :true  
   },
     "THEME": {
-    "description": "Don't Change . No Need To Change  Avilable DARKSHAN,DARKSHAN-EN .",
-     "value": "DARKSHAN"
+    "description": "Don't Change . No Need To Change.",
+     "value": "NITHYA"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -109,11 +110,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "DARK-SHAN-MD"
+    "value": "NITHYA-MD"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "dark-shanbot"
+    "value": "NITHYA"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
