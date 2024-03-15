@@ -1,15 +1,15 @@
 {
-               "name": "DARK-SHAN-MD",
-               "version": "1.0.1",
-               "description": "Multi device whatsapp bot by DARKSHAN.",
+               "name": "QUEEN-NITHYA-MD",
+               "version": "1.1",
+               "description": "Multi device whatsapp bot by Dileepa.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name DARKSHAN",
-                "stop": "pm2 stop DARKSHAN"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name NITHYA",
+                "stop": "pm2 stop NITHYA"
                 },
-               "author": "DARKSHAN",
+               "author": "DILEEPA",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -115,10 +115,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/kushansewmina1234/DARK-SHAN-MD.git"
+                 "url": "git+https://github.com/DileepaTech/Queen-Nithya-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/kushansewmina1234/DARK-SHAN-MD/issues"
+                 "url": "https://github.com/DileepaTech/Queen-Nithya-MD/issues"
                   },
-                 "homepage": "https://github.com/kushansewmina1234/DARK-SHAN-MD#readme"
+                 "homepage": "https://github.com/DileepaTech/Queen-Nithya-MD#readme"
                   }
