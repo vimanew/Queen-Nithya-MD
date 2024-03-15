@@ -1,8 +1,8 @@
 { 
-  "name": "DARK-SHAN-MD",
-  "description": "A Whatsapp md bot built By kushan sewmina to make experience better",
+  "name": "NTIHYA-MD",
+  "description": "A Whatsapp md bot built",
   "logo": "https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "darkshan-Two", "DARK-SHAN-MD", "DARKSHAN","darkshan-Bot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "darkshan-Two", "NITHYA-MD", "DILEEPA","NITHYA-BOT","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
