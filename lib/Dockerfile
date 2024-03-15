@@ -1,6 +1,6 @@
-FROM quay.io/kushansewmina/dark-shan-md-1
-RUN git clone https://github.com/kushansewmina1234/DARK-SHAN-MD /root/kushansewmina1234
-WORKDIR /root/kushansewmina1234/
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/DileepaTech/Queen-Nithya-MD /root/DileepaTech
+WORKDIR /root/DileepaTech/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
