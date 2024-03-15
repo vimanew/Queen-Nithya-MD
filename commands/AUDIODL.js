@@ -51,7 +51,6 @@ if (text.startsWith("https://youtube.com/shorts/")) {
 ╏👽 *Author:* ${anu.author.name}
 ⦁
 ╏📡 *Url* : ${anu.url}
-
 ◯┉━━┅━━━━━━━━━┅━━━┉◯
 
 *1.1 ╏ AUDIO* 🎧
