@@ -1,7 +1,7 @@
 {
                "name": "QUEEN-NITHYA-MD",
                "version": "1.1",
-               "description": "Multi device whatsapp bot by Dileepa.",
+               "description": "Multi device whatsapp bot by Yasas Dileepa.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
